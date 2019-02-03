@@ -1,4 +1,4 @@
 # Gloceries-App
 Gloceries App
-https://github.com/niyogakiza/Gloceries-App/blob/master/src/images/imageone.png
-https://github.com/niyogakiza/Gloceries-App/blob/master/src/images/imagetwo.png
+![List](/src/images/imageone.png)
+![Add Product](/src/images/imagetwo.png)
